@@ -482,9 +482,6 @@ body {
   height: 100%;
   min-width: var(--min);
 }
-body.menu-show {
-  overflow: hidden;
-}
 body.menu-show .menu-overlay-wrap {
   display: block;
 }
