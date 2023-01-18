@@ -484,6 +484,7 @@ body {
 }
 body {
   width: 100vw;
+  overflow-x: hidden;
 }
 body.menu-show .menu-overlay-wrap {
   display: block;
