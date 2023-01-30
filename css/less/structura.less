@@ -189,18 +189,23 @@ html {
     padding-bottom: 30px;
     position: relative;
     .logo-actions-wrap {
-        display: none;
+        display: flex;
+        width: 0;
         animation: fadein ease 0.2s;
-        width: 42px;
+        transition: none;
+        align-items: center;
         height: 42px;
         position: absolute;
         top: 50%;
         left: var(--paddingContainer);
         margin-top: -21px;
+        overflow: hidden;
         .logo {
-            display: block;
-            width: 100%;
-            flex-shrink: 0;
+            width: 42px;
+            img {
+                display: block;
+                width: 100%;
+            }
         }
     }
     &:before {
@@ -898,7 +903,8 @@ html {
             .header {
                 background-color: transparent;
                 .logo-actions-wrap {
-                    display: flex;
+                    width: 42px;
+                    transition: width ease 0.4s;
                 }
                 .actions-panel-wrap {
                     padding-top: 10px;

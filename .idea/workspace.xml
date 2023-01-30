@@ -5,7 +5,291 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33c1e436-f245-4d66-b94e-65d1b59486dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LaForme/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/.idea/_blank_HTML - new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/cart01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/cart02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/catalog-tiles-menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/catalog-tiles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/find.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/org-second.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/org.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_html/worker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/_includes/scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/cart01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/cart02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/catalog-tiles-menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/catalog-tiles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/animate.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/common.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/content.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/fonts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/items.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/main.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/mixin.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/structura.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/css/swipebox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/find.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action-bg01-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action-bg01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action-bg02-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action-bg02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action-bg03-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action-bg03.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action01-d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action01-m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action02-d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/action06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/cat09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/catalog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/catalog01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/catalog02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/catalog03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/catalog04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/catalog05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/catalog06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/gift.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-att.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-breadcrumb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-more.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-select.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-slider-second.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-slider-third.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-slider-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-slider.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-tgl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow-toggle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/button-cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/button-catalog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/button-fav.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/button-location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/button-login.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/button-reg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/button-search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/button-shop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/card-new.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/compare.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/del.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/del01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/del02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/del03.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/fav.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/favorites.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/filter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/gift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/info-delivery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/info-refund.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/info-services.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/info01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/info02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/info03.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/logo01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/logo02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/logo03.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/logo04.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/loop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu-cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu-eat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu-find.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu-services.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu-work.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/menu09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/pay-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/pay01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/pay02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/photos.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/quote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/rate-set-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/rate-set-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/rate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/refresh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/s01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/s02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/s03.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/s04.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/s05.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/service01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/service02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/service03.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/service04.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/service05.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/size.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/soc-ok.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/soc-tg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/soc-tlg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/soc-vb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/soc-vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/soc-wa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/srv01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/srv02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/srv03.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/srv04.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/srv05.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/srv06.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/srv07.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/srv08.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/srv09.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/total01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/total02.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/view.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/wallet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/icons/watch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu01-desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu01-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu02-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu03-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu05-desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/menu05-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/o01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/o02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/o03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/o04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/order.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/review-user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/review01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/review02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/small01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/small02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/small03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/small04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/small05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/small06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/small07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/small08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/spr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/spr/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/srv01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/srv02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/srv03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/top-bg-desktop-second.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/top-bg-mobile-second.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/top-bg-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/top-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/worker01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/worker02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/worker03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/worker04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/worker05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/img/worker06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/js/jquery.maskedinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/js/jquery.swipebox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/js/jquery.ui.touch-punch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/org-second.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/org.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LaForme/worker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK-menu-mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK-menu-mobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK01.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK02.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK03.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK04.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK05.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK06.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK06.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK07.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK07.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK08.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LK09.html" beforeDir="false" afterPath="$PROJECT_DIR$/LK09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_html/cart-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/_html/cart-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart-login-out.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart-login-out.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-list-side.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-list-side.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/less/structura.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/less/structura.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search01.html" beforeDir="false" afterPath="$PROJECT_DIR$/search01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search02.html" beforeDir="false" afterPath="$PROJECT_DIR$/search02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srt.html" beforeDir="false" afterPath="$PROJECT_DIR$/srt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +318,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/htmlworker/Sites/0060/purolat/_html&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/vaceslavvolhin/Sites/0060/purolat",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_html" />
@@ -86,7 +375,8 @@
       <workItem from="1671505967431" duration="458000" />
       <workItem from="1672604113988" duration="2524000" />
       <workItem from="1673505271532" duration="9897000" />
-      <workItem from="1674024085311" duration="1714000" />
+      <workItem from="1674024085311" duration="2595000" />
+      <workItem from="1675070771473" duration="1244000" />
     </task>
     <servers />
   </component>

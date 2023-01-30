@@ -225,7 +225,7 @@ $(document).ready(function(){
         $('.categories-slider-box .slider').slick({
             dots: true,
             slidesToShow: 6,
-            letiableWidth: false,
+            variableWidth: false,
             infinite: true,
             adaptiveHeight: false,
             rows: 1,
@@ -248,7 +248,7 @@ $(document).ready(function(){
                 {
                     breakpoint: 1024,
                     settings: {
-                        letiableWidth: true,
+                        variableWidth: true,
                     }
                 },
             ]
@@ -261,7 +261,7 @@ $(document).ready(function(){
         $('.catalog-slider-box .slider').slick({
             dots: false,
             slidesToShow: 5,
-            letiableWidth: false,
+            variableWidth: false,
             infinite: true,
             adaptiveHeight: false,
             rows: 1,
