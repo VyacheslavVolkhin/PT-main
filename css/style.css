@@ -8237,6 +8237,30 @@ select::-ms-expand {
   padding: 0 30px;
   padding: 0 3rem;
 }
+.btn.button-cart-active {
+  background-color: #8D8D8D;
+  border-color: #8D8D8D;
+  padding: 10px 10px 0 0 !important;
+  overflow: visible;
+}
+.btn.button-cart-active:after {
+  content: attr(data-count);
+  height: 20px;
+  min-width: 20px;
+  border-radius: 10px;
+  padding: 0 4px;
+  text-align: center;
+  background-color: #D11F1F;
+  line-height: 20px;
+  font-size: 11px;
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  margin: -12px 0 0 -2px;
+  float: left;
+}
 .btn.button-main {
   height: 60px;
   padding: 0 20px;

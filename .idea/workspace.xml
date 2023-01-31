@@ -257,7 +257,17 @@
       <change afterPath="$PROJECT_DIR$/../LaForme/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LaForme/product.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LaForme/worker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_html/catalog-list-side.html" beforeDir="false" afterPath="$PROJECT_DIR$/_html/catalog-list-side.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_html/catalog-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_html/catalog-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_html/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/_html/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-list-side.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-list-side.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/less/forms.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/less/forms.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/less/structura.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/less/structura.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -344,7 +354,7 @@
       <workItem from="1672604113988" duration="2524000" />
       <workItem from="1673505271532" duration="9897000" />
       <workItem from="1674024085311" duration="2595000" />
-      <workItem from="1675070771473" duration="1344000" />
+      <workItem from="1675070771473" duration="4219000" />
     </task>
     <servers />
   </component>
