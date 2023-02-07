@@ -1189,7 +1189,7 @@
                         </div>
                         <div class="order-section-content">
                             <div class="order-select">
-                                <div class="frm-select-button">
+                                <div class="frm-select-button js-anchor-button" data-anchor="#section-delivery">
                                     <input type="radio" name="delivery" id="del02" data-content="del02" checked>
                                     <label for="del02">
                                         <span class="elm-ico color03">
@@ -1203,7 +1203,7 @@
                                 </div>
                             </div>
                             <div class="order-select">
-                                <div class="frm-select-button">
+                                <div class="frm-select-button js-anchor-button" data-anchor="#section-delivery">
                                     <input type="radio" name="delivery" id="del01" data-content="del01">
                                     <label for="del01">
                                         <span class="elm-ico color02">
@@ -1218,7 +1218,7 @@
                             </div>
 
                             <div class="order-select">
-                                <div class="frm-select-button">
+                                <div class="frm-select-button js-anchor-button" data-anchor="#section-delivery">
                                     <input type="radio" name="delivery" id="del03" data-content="del03">
                                     <label for="del03">
                                         <span class="elm-ico color04">
@@ -1236,123 +1236,125 @@
                     <!--/order-section-wrap-->
                 </div>
                 <!--/order-sections-wrap-->
-                <!--order-section-wrap-->
-                <div class="order-section-wrap frm-content" data-content="del01">
-                    <div class="order-section-title">
-                        <div class="section-title">АДРЕС ДОСТАВКИ</div>
+                <div id="section-delivery">
+                    <!--order-section-wrap-->
+                    <div class="order-section-wrap frm-content" data-content="del01">
+                        <div class="order-section-title">
+                            <div class="section-title">АДРЕС ДОСТАВКИ</div>
+                        </div>
+                        <div class="order-section-content">
+                            <div class="frm-select">
+                                <input type="checkbox" id="adr-second01">
+                                <label for="adr-second01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
+                            </div>
+                            <div class="frm-select">
+                                <input type="checkbox" id="adr-second02">
+                                <label for="adr-second02">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
+                            </div>
+                            <div class="order-action">
+                                <a href="" class="btn button-light button-border">
+                                    <span class="button-ico">
+                                        <img src="./img/icons/plus-inner.svg" alt="">
+                                    </span>
+                                    <span class="button-title">Добавить адрес</span>
+                                </a>
+                            </div>
+                        </div>
                     </div>
-                    <div class="order-section-content">
-                        <div class="frm-select">
-                            <input type="checkbox" id="adr-second01">
-                            <label for="adr-second01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
+                    <!--/order-section-wrap-->
+                    <!--order-section-wrap-->
+                    <div class="order-section-wrap frm-content" data-content="del02">
+                        <div class="order-section-title">
+                            <div class="section-title">АДРЕС пункта самовывоза</div>
                         </div>
-                        <div class="frm-select">
-                            <input type="checkbox" id="adr-second02">
-                            <label for="adr-second02">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
-                        </div>
-                        <div class="order-action">
-                            <a href="" class="btn button-light button-border">
-                                <span class="button-ico">
-                                    <img src="./img/icons/plus-inner.svg" alt="">
-                                </span>
-                                <span class="button-title">Добавить адрес</span>
-                            </a>
+                        <div class="order-section-content">
+                            <div class="frm-select">
+                                <input type="checkbox" id="adr01">
+                                <label for="adr01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
+                            </div>
+                            <div class="frm-select">
+                                <input type="checkbox" id="adr02">
+                                <label for="adr02">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
+                            </div>
                         </div>
                     </div>
+                    <!--/order-section-wrap-->
+                    <!--order-section-wrap-->
+                    <div class="order-section-wrap frm-content" data-content="del03">
+                        <div class="order-section-title">
+                            <div class="section-title">Транспортная компания</div>
+                        </div>
+                        <div class="order-section-content">
+                            <div class="order-trk-wrap">
+                                <div class="frm-select sel-logo">
+                                    <input type="radio" name="trk" id="trk01" data-content="trk01-inner">
+                                    <label for="trk01">
+                                        <span class="lbl-logo"><img src="./img/logo01.svg" alt=""></span>
+                                        <span class="lbl-price">от 250 р</span>
+                                    </label>
+                                </div>
+                                <div class="frm-content" data-content="trk01-inner">
+                                    <div class="frm-select">
+                                        <input type="checkbox" id="trk-inner01-01">
+                                        <label for="trk-inner01-01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
+                                    </div>
+                                    <div class="order-action">
+                                        <a href="" class="btn button-border button-light">Выбрать пункт выдачи</a>
+                                    </div>
+                                </div>
+                                <div class="frm-select sel-logo">
+                                    <input type="radio" name="trk" id="trk02" data-content="trk02-inner">
+                                    <label for="trk02">
+                                        <span class="lbl-logo"><img src="./img/logo02.svg" alt=""></span>
+                                        <span class="lbl-price">от 250 р</span>
+                                    </label>
+                                </div>
+                                <div class="frm-content" data-content="trk02-inner">
+                                    <div class="frm-select">
+                                        <input type="checkbox" id="trk-inner02-01">
+                                        <label for="trk-inner02-01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
+                                    </div>
+                                    <div class="order-action">
+                                        <a href="" class="btn button-border button-light">Выбрать пункт выдачи</a>
+                                    </div>
+                                </div>
+                                <div class="frm-select sel-logo">
+                                    <input type="radio" name="trk" id="trk03" data-content="trk03-inner">
+                                    <label for="trk03">
+                                        <span class="lbl-logo"><img src="./img/logo03.svg" alt=""></span>
+                                        <span class="lbl-price">от 250 р</span>
+                                    </label>
+                                </div>
+                                <div class="frm-content" data-content="trk03-inner">
+                                    <div class="frm-select">
+                                        <input type="checkbox" id="trk-inner03-01">
+                                        <label for="trk-inner03-01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
+                                    </div>
+                                    <div class="order-action">
+                                        <a href="" class="btn button-border button-light">Выбрать пункт выдачи</a>
+                                    </div>
+                                </div>
+                                <div class="frm-select sel-logo">
+                                    <input type="radio" name="trk" id="trk04" data-content="trk04-inner">
+                                    <label for="trk04">
+                                        <span class="lbl-logo"><img src="./img/logo04.svg" alt=""></span>
+                                        <span class="lbl-price">от 250 р</span>
+                                    </label>
+                                </div>
+                                <div class="frm-content" data-content="trk04-inner">
+                                    <div class="frm-select">
+                                        <input type="checkbox" id="trk-inner04-01">
+                                        <label for="trk-inner04-01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
+                                    </div>
+                                    <div class="order-action">
+                                        <a href="" class="btn button-border button-light">Выбрать пункт выдачи</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/order-section-wrap-->
                 </div>
-                <!--/order-section-wrap-->
-                <!--order-section-wrap-->
-                <div class="order-section-wrap frm-content" data-content="del02">
-                    <div class="order-section-title">
-                        <div class="section-title">АДРЕС пункта самовывоза</div>
-                    </div>
-                    <div class="order-section-content">
-                        <div class="frm-select">
-                            <input type="checkbox" id="adr01">
-                            <label for="adr01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
-                        </div>
-                        <div class="frm-select">
-                            <input type="checkbox" id="adr02">
-                            <label for="adr02">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
-                        </div>
-                    </div>
-                </div>
-                <!--/order-section-wrap-->
-                <!--order-section-wrap-->
-                <div class="order-section-wrap frm-content" data-content="del03">
-                    <div class="order-section-title">
-                        <div class="section-title">Транспортная компания</div>
-                    </div>
-                    <div class="order-section-content">
-                        <div class="order-trk-wrap">
-                            <div class="frm-select sel-logo">
-                                <input type="radio" name="trk" id="trk01" data-content="trk01-inner">
-                                <label for="trk01">
-                                    <span class="lbl-logo"><img src="./img/logo01.svg" alt=""></span>
-                                    <span class="lbl-price">от 250 р</span>
-                                </label>
-                            </div>
-                            <div class="frm-content" data-content="trk01-inner">
-                                <div class="frm-select">
-                                    <input type="checkbox" id="trk-inner01-01">
-                                    <label for="trk-inner01-01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
-                                </div>
-                                <div class="order-action">
-                                    <a href="" class="btn button-border button-light">Выбрать пункт выдачи</a>
-                                </div>
-                            </div>
-                            <div class="frm-select sel-logo">
-                                <input type="radio" name="trk" id="trk02" data-content="trk02-inner">
-                                <label for="trk02">
-                                    <span class="lbl-logo"><img src="./img/logo02.svg" alt=""></span>
-                                    <span class="lbl-price">от 250 р</span>
-                                </label>
-                            </div>
-                            <div class="frm-content" data-content="trk02-inner">
-                                <div class="frm-select">
-                                    <input type="checkbox" id="trk-inner02-01">
-                                    <label for="trk-inner02-01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
-                                </div>
-                                <div class="order-action">
-                                    <a href="" class="btn button-border button-light">Выбрать пункт выдачи</a>
-                                </div>
-                            </div>
-                            <div class="frm-select sel-logo">
-                                <input type="radio" name="trk" id="trk03" data-content="trk03-inner">
-                                <label for="trk03">
-                                    <span class="lbl-logo"><img src="./img/logo03.svg" alt=""></span>
-                                    <span class="lbl-price">от 250 р</span>
-                                </label>
-                            </div>
-                            <div class="frm-content" data-content="trk03-inner">
-                                <div class="frm-select">
-                                    <input type="checkbox" id="trk-inner03-01">
-                                    <label for="trk-inner03-01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
-                                </div>
-                                <div class="order-action">
-                                    <a href="" class="btn button-border button-light">Выбрать пункт выдачи</a>
-                                </div>
-                            </div>
-                            <div class="frm-select sel-logo">
-                                <input type="radio" name="trk" id="trk04" data-content="trk04-inner">
-                                <label for="trk04">
-                                    <span class="lbl-logo"><img src="./img/logo04.svg" alt=""></span>
-                                    <span class="lbl-price">от 250 р</span>
-                                </label>
-                            </div>
-                            <div class="frm-content" data-content="trk04-inner">
-                                <div class="frm-select">
-                                    <input type="checkbox" id="trk-inner04-01">
-                                    <label for="trk-inner04-01">Название Города, Назавние Улицы, номер дома 777б, номер корпуса, номер офиса115</label>
-                                </div>
-                                <div class="order-action">
-                                    <a href="" class="btn button-border button-light">Выбрать пункт выдачи</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/order-section-wrap-->
                 <!--order-section-wrap-->
                 <div class="order-section-wrap">
                     <div class="order-section-title">

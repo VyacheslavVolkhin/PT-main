@@ -38,6 +38,15 @@ $(document).ready(function(){
     }
 
 
+    //animate anchor scroll
+    $('.js-anchor-button').on("click", function (e) {
+        var anchor = $(this);
+        $('html, body').stop().animate({
+            scrollTop: $(anchor.attr('data-anchor')).offset().top - 100
+        }, 1000);
+    });
+
+
     //btn tgl
     $('.js-btn-tgl').on('click', function () {
         $(this).toggleClass('active');

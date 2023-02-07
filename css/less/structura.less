@@ -922,6 +922,39 @@ html {
             }
         }
     }
+    .popup-menu-wrap {
+        .menu {
+            li {
+                &:hover {
+                    ul {
+                        display: block;
+                    }
+                }
+            }
+            ul {
+                display: none;
+                animation: fadein ease 0.2s;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                width: 150px;
+                min-width: 100%;
+                z-index: 20;
+                border-radius: 10px;
+                background-color: #fff;
+                border: 1px solid #999;
+                padding: 15px 0;
+                a {
+                    display: block;
+                    padding: 5px 10px;
+                    &.active, &:hover {
+                        background-color: var(--clr-att);
+                        color: #fff;
+                    }
+                }
+            }
+        }
+    }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
     .wrap.header-fixed .header .actions-panel-wrap {
